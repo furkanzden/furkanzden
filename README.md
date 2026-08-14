@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8B5CF6&height=170&section=header" />
-  <img src="https://avatars.githubusercontent.com/u/69054278?v=4" style="border-radius:50%; width:150px;position:absolute; left: 50%; transform: translateX(-50%); top:50px" />
+<br>
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/69054278&w=150&h=150&fit=cover&mask=circle" width="150" alt="Furkan Özden" />
 </p>
 
 <h1 align="center">Merhaba 👋 Ben Furkan Özden</h1>
